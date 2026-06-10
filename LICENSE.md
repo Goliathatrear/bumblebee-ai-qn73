@@ -1,4 +1,4 @@
-# 
+# Top Bumblebee modèles. Avec gestion de la mémoire et fine-tuning — optimisé pour des performances et une efficacité maximales.
 
 
 
